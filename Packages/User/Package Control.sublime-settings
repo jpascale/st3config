@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"BracketHighlighter",
+		"CSSLint",
+		"Djaneiro",
+		"Django Click",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Github Color Theme",
+		"Gitignore",
+		"HTML5",
+		"JavaScript Console",
+		"LESS",
+		"Pylinter",
+		"Python Flake8 Lint",
+		"Python Improved",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Solarized Toggle",
+		"sublime-github",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}

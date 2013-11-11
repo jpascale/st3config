@@ -1,0 +1,43 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"detect_indentation": false,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"flatland_sidebar_tree_xsmall": true,
+	"font_face": "Inconsolata",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"patterns":
+		{
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		}
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&#038;*|+=[]{}`~?",
+	"word_wrap": false
+}

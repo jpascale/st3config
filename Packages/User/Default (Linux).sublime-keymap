@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+|"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": false } },
+    {"keys": ["f12"], "command": "goto_definition"},
+    {"keys": ["ctrl+shift+o"], "command": "prompt_open_folder"},
+]
